@@ -1,1 +1,1 @@
-DialogSample
+从Prism中分离的Dialog服务
